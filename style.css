@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    background-color: orange;
+    padding: 10px;
+    text-shadow: 0 0 15px; 
+    border: 2px solid greenyellow;
+}
+p{
+    background-color: blue;
+    padding: 10px;
+    
+    
+}
+.mall{
+    background-image: url("img.jpg");
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#teddy{
+    font-size: 40px;
+    word-spacing: 50px;
+    text-transform: uppercase;
+}
